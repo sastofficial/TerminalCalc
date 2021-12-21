@@ -1,0 +1,15 @@
+d:\TerminalCalc\TerminalCalc\obj\Debug\net6.0\TerminalCalc.csproj.AssemblyReference.cache
+d:\TerminalCalc\TerminalCalc\obj\Debug\net6.0\TerminalCalc.GeneratedMSBuildEditorConfig.editorconfig
+d:\TerminalCalc\TerminalCalc\obj\Debug\net6.0\TerminalCalc.AssemblyInfoInputs.cache
+d:\TerminalCalc\TerminalCalc\obj\Debug\net6.0\TerminalCalc.AssemblyInfo.cs
+d:\TerminalCalc\TerminalCalc\obj\Debug\net6.0\TerminalCalc.csproj.CoreCompileInputs.cache
+d:\TerminalCalc\TerminalCalc\bin\Debug\net6.0\TerminalCalc.exe
+d:\TerminalCalc\TerminalCalc\bin\Debug\net6.0\TerminalCalc.deps.json
+d:\TerminalCalc\TerminalCalc\bin\Debug\net6.0\TerminalCalc.runtimeconfig.json
+d:\TerminalCalc\TerminalCalc\bin\Debug\net6.0\TerminalCalc.dll
+d:\TerminalCalc\TerminalCalc\bin\Debug\net6.0\ref\TerminalCalc.dll
+d:\TerminalCalc\TerminalCalc\bin\Debug\net6.0\TerminalCalc.pdb
+d:\TerminalCalc\TerminalCalc\obj\Debug\net6.0\TerminalCalc.dll
+d:\TerminalCalc\TerminalCalc\obj\Debug\net6.0\ref\TerminalCalc.dll
+d:\TerminalCalc\TerminalCalc\obj\Debug\net6.0\TerminalCalc.pdb
+d:\TerminalCalc\TerminalCalc\obj\Debug\net6.0\TerminalCalc.genruntimeconfig.cache
