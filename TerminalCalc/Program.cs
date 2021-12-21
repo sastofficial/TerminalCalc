@@ -12,7 +12,7 @@ Console.Write ("What calculation method are you using? (+,-,/ or x) ");
  calcmethod = Console.ReadLine();
  
 
-if (calcmethod = "+"){
+if (calcmethod = "uwu"){
 	 answer = num1 + num2;
  Console.WriteLine(num1 + " + " + num2 + " = " + answer); } 
 	else{ Console.WriteLine("hello");
