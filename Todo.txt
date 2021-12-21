@@ -1,0 +1,2 @@
+Use bool on calcmethod
+Make Website
