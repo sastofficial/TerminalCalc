@@ -8,6 +8,8 @@ num1 = Convert.ToDouble(Console.ReadLine() );
 Console.Write ("Input another number: ");
 num2 = Convert.ToDouble( Console.ReadLine() );
 
+#@todo get the calcmethod thing to work :)
+
 Console.WriteLine("What calculation method are you using?");
 Console.WriteLine("1.+");
 Console.WriteLine("2.-");
